@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Factorial_using_recursion {
+public class factorial {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Enter the number:");
